@@ -1,0 +1,25 @@
+{
+  "id": "mecore",
+  "title": "MECore",
+  "description": "A minimal UI library for character sheets using React and TypeScript",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "njisaf"
+    }
+  ],
+  "esmodules": [
+    "dist/bundle.js"
+  ],
+  "styles": [
+    "dist/styles.css"
+  ],
+  "languages": [],
+  "url": "https://github.com/njisaf/mecore",
+  "manifest": "https://github.com/njisaf/mecore/releases/latest/download/module.json",
+  "download": "https://github.com/njisaf/mecore/releases/latest/download/module.zip"
+}
